@@ -1,0 +1,15 @@
+.DS_Store
+.dockerignore
+.git
+
+node_modules
+.git
+
+
+.eslintrc
+.gitignore
+.prettierignore
+.prettierrc
+Dockerfile
+README.md
+yarn-error.log

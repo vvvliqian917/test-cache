@@ -1,0 +1,12 @@
+{
+  "name": "hot-update",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "nodejs-websocket": "^1.7.2"
+  }
+}
